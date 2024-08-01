@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"tfp"},
-{"type":"table","name":"users_export","database":"tfp","data":
-[
 {"user":"Usr5D196","country":"Not Provided","timeinterval":"T1"},
 {"user":"UsrMO299","country":"Not Provided","timeinterval":"T1"},
 {"user":"Usr9635","country":"Not Provided","timeinterval":"T1"},
@@ -2484,6 +2480,4 @@
 {"user":"Usr8V247959","country":"Germany","timeinterval":"T15"},
 {"user":"UsrED248083","country":"Not Provided","timeinterval":"T15"},
 {"user":"Usr1L248138","country":"Philippines","timeinterval":"T15"}
-]
-}
 ]

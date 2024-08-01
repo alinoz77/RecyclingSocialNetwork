@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"tfp"},
-{"type":"table","name":"actions_export","database":"tfp","data":
-[
 {"action":"ActC813","action_user":"UsrTC169798","creation_time_interval":"T1","countryCode":"GB","verified":"1","verification_time_interval":"T2","verification_user":"UsrDQ12518"},
 {"action":"ActD7278","action_user":"UsrHL139371","creation_time_interval":"T6","countryCode":"RS","verified":"1","verification_time_interval":"T6","verification_user":"UsrLC139074"},
 {"action":"ActIF382","action_user":"UsrZH20667","creation_time_interval":"T3","countryCode":"DE","verified":"1","verification_time_interval":"T3","verification_user":"UsrI991023"},
@@ -12038,6 +12034,4 @@
 {"action":"ActDZ1399129","action_user":"Usr9G46290","creation_time_interval":"T6","countryCode":"RO","verified":"1","verification_time_interval":"T6","verification_user":"UsrCL187474"},
 {"action":"ActNO1399254","action_user":"UsrNQ19577","creation_time_interval":"T6","countryCode":"DE","verified":"1","verification_time_interval":"T6","verification_user":"UsrPU54650"},
 {"action":"ActED1399381","action_user":"UsrNJ185892","creation_time_interval":"T10","countryCode":"RS","verified":"1","verification_time_interval":"T10","verification_user":"UsrVW170264"}
-]
-}
 ]
